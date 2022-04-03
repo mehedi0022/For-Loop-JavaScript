@@ -10,7 +10,6 @@ for(startingNumber; startingNumber<=lastNumber; startingNumber++){
     count = startingNumber;
     if(count < lastNumber){
         document.write("+");
-        count++
     }
 }
 document.write(" = "+ sum);
